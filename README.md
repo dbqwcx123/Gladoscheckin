@@ -1,5 +1,9 @@
 # Glados自动签到
 
+## 自动签到失败解决办法
+
+### 重新获取COOKIE并更新到action secret中
+
 ## 食用方式：
 
 ### 注册一个GLaDOS的账号([注册地址](https://glados.space/landing/0A58E-NV28S-6U3QV-33VMG))
