@@ -45,7 +45,6 @@ if __name__ == '__main__':
             # 获取账号当前状态
             result = state.json()
             print(result.keys())
-            print(result['code'].keys())
             print(result['message'].keys())
             # 获取剩余时间
             leftdays = int(float(result['data']['leftDays']))
